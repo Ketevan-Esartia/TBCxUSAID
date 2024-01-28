@@ -1,0 +1,376 @@
+@font-face {
+    font-display: block;
+    font-family: wf_dd28b3957391427eb54de1c9e;
+    src: url("https://static.wixstatic.com/ufonts/643d94_dd28b3957391427eb54de1c9eff7cfb1/woff2/file.woff2") format("woff2"), url("https://static.wixstatic.com/ufonts/643d94_dd28b3957391427eb54de1c9eff7cfb1/woff/file.woff") format("woff"), url("https://static.wixstatic.com/ufonts/643d94_dd28b3957391427eb54de1c9eff7cfb1/ttf/file.ttf") format("ttf");
+}
+
+@font-face {
+    font-family: "DIN-Next-W01-Light";
+    src: url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/3e0b2cd7-9657-438b-b4af-e04122e8f1f7.eot?#iefix");
+    src: url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/3e0b2cd7-9657-438b-b4af-e04122e8f1f7.eot?#iefix") format("eot"),url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/bc176270-17fa-4c78-a343-9fe52824e501.woff") format("woff"),url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/3516f91d-ac48-42cd-acfe-1be691152cc4.ttf") format("truetype"),url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/d1b1e866-a411-42ba-8f75-72bf28e23694.svg#d1b1e866-a411-42ba-8f75-72bf28e23694") format("svg");
+    font-display: block;
+}
+
+@font-face {
+    font-family: "DIN-Next-W02-Light";
+    src: url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/48e5a0e1-2d56-46e5-8fc4-3d6d5c973cbf.eot?#iefix");
+    src: url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/48e5a0e1-2d56-46e5-8fc4-3d6d5c973cbf.eot?#iefix") format("eot"),url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/07d62b21-8d7a-4c36-be86-d32ab1089972.woff") format("woff"),url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/c0050890-bbed-44b9-94df-2611d72dbb06.ttf") format("truetype"),url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/9f774d17-c03a-418e-a375-34f3beecbc7a.svg#9f774d17-c03a-418e-a375-34f3beecbc7a") format("svg");
+    font-display: block;
+}
+
+@font-face {
+    font-family: "DIN-Next-W10-Light";
+    src: url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/3d009cd7-c8fe-40c0-93da-74f4ea8c530b.eot?#iefix");
+    src: url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/3d009cd7-c8fe-40c0-93da-74f4ea8c530b.eot?#iefix") format("eot"),url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/a9e95a29-98a7-404a-90ee-1929ad09c696.woff") format("woff"),url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/0a7663fd-eae8-4e50-a67a-225271f8cceb.ttf") format("truetype"),url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/58ae9be9-5d95-44b6-8b6c-e6da6a46822c.svg#58ae9be9-5d95-44b6-8b6c-e6da6a46822c") format("svg");
+    font-display: block;
+}
+
+@font-face {
+    font-display: block;
+    font-family: wf_93c16d86ec9d47d0a2a36894f;
+    src: url("https://static.wixstatic.com/ufonts/643d94_93c16d86ec9d47d0a2a36894fbdd54fd/woff2/file.woff2") format("woff2"), url("https://static.wixstatic.com/ufonts/643d94_93c16d86ec9d47d0a2a36894fbdd54fd/woff/file.woff") format("woff"), url("https://static.wixstatic.com/ufonts/643d94_93c16d86ec9d47d0a2a36894fbdd54fd/ttf/file.ttf") format("ttf");
+}
+
+@font-face {
+    font-display: block;
+    font-family: wf_f52303b2efea42e1b4aeed119;
+    src: url("https://static.wixstatic.com/ufonts/643d94_f52303b2efea42e1b4aeed119e42672e/woff2/file.woff2") format("woff2"), url("https://static.wixstatic.com/ufonts/643d94_f52303b2efea42e1b4aeed119e42672e/woff/file.woff") format("woff"), url("https://static.wixstatic.com/ufonts/643d94_f52303b2efea42e1b4aeed119e42672e/ttf/file.ttf") format("ttf");
+}
+
+
+@font-face {
+    font-display: block;
+    font-family: wf_7737b5e7be24426aa35c9f431;
+    src: url("https://static.wixstatic.com/ufonts/dd97f4_7737b5e7be24426aa35c9f4311c1de96/woff2/file.woff2") format("woff2"), url("https://static.wixstatic.com/ufonts/dd97f4_7737b5e7be24426aa35c9f4311c1de96/woff/file.woff") format("woff"), url("https://static.wixstatic.com/ufonts/dd97f4_7737b5e7be24426aa35c9f4311c1de96/ttf/file.ttf") format("ttf");
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul, ol {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.SITE_CONTAINER {
+    position: relative;
+    align-items: start;
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: max-content max-content min-content max-content;
+    justify-content: stretch;
+}
+
+button {
+    background: 0;
+    border: 0;
+}
+
+header {
+    background-color: black;
+}
+
+header .SITE_HEADER_WRAPPER {
+    height: auto;
+    width: 100%;
+    position: relative;
+}
+
+header .SITE_HEADER {
+    top: 0;
+    z-index: 50;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.headerStartNav {
+    width: 182px;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+}
+
+.headerEndNav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.tbc-logo {
+    height: 40px;
+    width: 40px;
+    background-color: black;
+}
+
+.headerStartNavLetter {
+    font-family: wf_f52303b2efea42e1b4aeed119;
+}
+
+.DrpDwnMn0-5s3 {
+    width: 454px;
+    height: 26px;
+    margin: 29px 0px 29px calc((100% - 980px) * 0.5);
+}
+
+.DrpDwnMn0-5s30 {
+    width: 113px;
+}
+
+.DrpDwnMn0-5s31 {
+    width: 96px;
+}
+.DrpDwnMn0-5s32 {
+    width: 137px;
+}
+.DrpDwnMn0-5s33 {
+    width: 108px;
+}
+
+.linkElement {
+    cursor: pointer;
+    line-height: 26px;
+    color:rgb(244, 244, 244);
+    font-family: wf_dd28b3957391427eb54de1c9e;
+}
+
+.linkElement:hover {
+    color: rgb(0, 163, 224);   
+}
+
+.linkElement1 {
+    color: rgb(0, 163, 224);
+    font-family: wf_dd28b3957391427eb54de1c9e;
+}
+
+.bg-image {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    object-position: 50% 50%;
+}
+
+.comp-ljio6uoiinlineContent-gridContainer {
+    position: static;
+    display: grid;
+    height: auto;
+    width: 100%;
+    min-height: 352px;
+    grid-template-rows: 1fr;
+    grid-template-columns: 100%;
+}
+
+.bgLayers_comp-ljio6uoi {
+    position: relative;
+}
+
+.comp-lm94jic9 {
+    position: absolute;
+    top: 50%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+}
+
+.font_3 {
+    font-size: 24px;
+    line-height: 1.6em;
+    font-family: wf_f52303b2efea42e1b4aeed119;
+    font-weight: 400;
+    color: rgb(244, 244, 244);
+    letter-spacing: 0em;
+}
+
+.comp-lisv4efi {
+    background-color: black;
+}
+
+.comp-lisv48zqinlineContent-gridContainer {
+    position: static;
+    display: grid;
+    height: auto;
+    width: 100%;
+    min-height: auto;
+    grid-template-rows: min-content 1fr;
+    grid-template-columns: 100%;
+}
+
+.font_0 {
+    font-size: 16px;
+    line-height: 1.6em;
+    font-family: wf_dd28b3957391427eb54de1c9e;
+    color: rgb(244, 244, 244);
+    letter-spacing: 0em;
+    font-weight: 400;
+}
+
+.CQ3ICl {
+    font-family: wf_7737b5e7be24426aa35c9f431;
+    font-size: 16px;
+    font-weight: 400;
+    color: rgb(0, 174, 243);
+}
+
+.grid {
+    background-color: black;
+  }
+
+.coursename {
+    font-size: 18px;
+    color: #F4F4F4;
+    font-family: wf_dd28b3957391427eb54de1c9e;
+    font-weight: 400;
+}
+
+.font_9 {
+    font-size: 14px;
+    color: rgb(244, 244, 244);
+    font-family: wf_dd28b3957391427eb54de1c9e;
+    font-weight: 400;
+}
+
+.M3I7Z2 {
+    font-family: wf_93c16d86ec9d47d0a2a36894f;
+    font-size: 16px;
+    font-weight: 400;
+    color: rgb(0, 174, 239);
+}
+
+.comp-lm956yp4 {
+    position: static;
+    display: grid;
+    height: auto;
+    width: 100%;
+    min-height: auto;
+    grid-template-rows: min-content 1fr;
+    grid-template-columns: 100%;
+    background-color: rgb(43, 43, 43);
+}
+
+.partners {
+    width: 450px;
+    height: auto;
+    position: relative;
+    margin: 34px 0px 31px calc((100% - 980px) * 0.5);
+    left: 0px;
+    grid-area: 1 / 1 / 2 / 2;
+    justify-self: start;
+    align-self: start;
+}
+
+.font_31 {
+   font-family: wf_dd28b3957391427eb54de1c9e; 
+   font-size: 24px;
+   color: rgb(244, 244, 244);
+}
+
+.comp-lj2vatw1 {
+    background-color: rgb(22, 22, 22);
+    position: relative;
+    left: 0px;
+    grid-area: 5 / 1 / 6 / 2;
+    justify-self: start;
+    align-self: start;
+}
+
+.wrapper {
+    height: auto;
+    width: 980px;
+    margin: 75px 0px 32px calc((100% - 980px) * 0.5);
+    justify-self: start;
+    align-self: start;
+}
+
+.wrapperh2 {
+    color: rgb(244, 244, 244);
+    font: 24px / 1.2em;
+    font-family: wf_dd28b3957391427eb54de1c9e;
+    font-weight: 400;
+    margin: 0px !important;
+    padding: 0px !important;
+}
+
+.question {
+    border-bottom: 1px solid rgb(53, 49, 49);
+    display: block;
+    min-height: 50px;
+    padding-top: 15px !important;
+    padding-bottom: 15px !important;
+}
+
+.accordion {
+    cursor: pointer;
+    font-size: 18px;
+    font-family: wf_dd28b3957391427eb54de1c9e;
+    color: rgb(244, 244, 244);
+    font-weight: 400;
+}
+
+.panelp {
+    padding-top: 2px;
+    padding-bottom: 3px;
+    line-height: 2;
+    font-size: 14px;
+    font-family: wf_dd28b3957391427eb54de1c9e;
+    color: rgb(244, 244, 244);
+}
+
+.stages {
+    font-weight: 700;
+    font-size: 14px;
+    font-family: wf_dd28b3957391427eb54de1c9e;
+    color: rgb(244, 244, 244);
+    font-weight: 700;
+}
+
+.answer {
+    font-size: 14px;
+    font-family: wf_dd28b3957391427eb54de1c9e;
+    color: rgb(244, 244, 244);
+    font-weight: 400;
+}
+
+.allQuestionsDiv {
+    width: 188px;
+    height: 40px;
+}
+
+.allquestions {
+    align-items: center;
+    color: rgb(0, 174, 243);
+    font-size: 20px;
+    font-weight: 400;
+    font-family: wf_7737b5e7be24426aa35c9f431;
+    cursor: pointer;
+    margin-top: 0px;
+}
+
+footer {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(26, 30, 31);
+}
+
+.navigation {
+    display: flex;
+    margin: 64px;   
+}
+
+.footerSpan {
+    font-family: wf_93c16d86ec9d47d0a2a36894f;
+    font-size: 14px;
+    color: rgb(244, 244, 244);
+    font-weight: 400;
+}
+
+.socialmedia {
+    display: flex;
+    justify-content: space-between;
+}
